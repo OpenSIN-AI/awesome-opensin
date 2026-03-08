@@ -764,6 +764,15 @@
 </details>
 
 <details>
+  <summary><b>hcom</b> <img src="https://badgen.net/github/stars/aannoo/hcom" height="14"/> - <i>Let AI agents message, watch, and spawn each other across terminals</i></summary>
+  <blockquote>
+    Claude Code, Gemini CLI, Codex CLI, and OpenCode agents in separate terminals can message each other, detect file edit collisions, read transcripts, view terminal screens, subscribe to activity, and spawn/fork/resume agents. First-class OpenCode support with native plugin. Includes TUI dashboard, cross-device relay, Python API, and multi-agent workflow scripts. pip installable, MIT licensed.
+    <br><br>
+    <a href="https://github.com/aannoo/hcom">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Kimaki</b> <img src="https://badgen.net/github/stars/remorses/kimaki" height="14"/> - <i>Discord bot controller</i></summary>
   <blockquote>
     A Discord bot to control opencode sessions on any computer via Discord.
