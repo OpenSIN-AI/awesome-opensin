@@ -296,6 +296,15 @@
 </details>
 
 <details>
+  <summary><b>OpenCode Agent Tmux</b> <img src="https://badgen.net/github/stars/AnganSamadder/opencode-agent-tmux" height="14"/> - <i>Real-time tmux panes for OpenCode agents with auto-launch, streaming, and cleanup.</i></summary>
+  <blockquote>
+    Smart tmux integration for OpenCode that auto-spawns panes to stream agent output, supports flexible layouts and multi-port setups, and cleans up when sessions finish.
+    <br><br>
+    <a href="https://github.com/AnganSamadder/opencode-agent-tmux">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Opencode Canvas</b> <img src="https://badgen.net/github/stars/mailshieldai/opencode-canvas" height="14"/> - <i>Interactive terminal canvases in tmux splits</i></summary>
   <blockquote>
     Interactive terminal canvases (calendars, documents, flight booking) in tmux splits. Port of claude-canvas for OpenCode.
