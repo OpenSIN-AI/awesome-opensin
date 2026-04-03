@@ -1,60 +1,30 @@
-# Contribution Guidelines
+# Contributing to {PROJECT_NAME}
 
-Thank you for contributing to `awesome-opencode`! Add your entries via YAML files—no need to edit README.md directly.
+Thank you for your interest in contributing!
 
-## How to Add an Entry
+## Getting Started
 
-### Step 1: Fork & Clone
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feat/my-feature`
+3. Make your changes
+4. Run tests: `npm test`
+5. Commit with conventional commits: `git commit -m "feat: add my feature"`
+6. Push and open a PR
 
-```bash
-git clone https://github.com/YOUR-USERNAME/awesome-opencode.git
-cd awesome-opencode
-```
+## Communication
 
-### Step 2: Create YAML File
+- Always leave screenshots for visual changes
+- Always leave a detailed PR description
+- Always review your code first
+- Always communicate in GitHub (issues or PRs)
 
-Create a YAML file in the appropriate category folder under `data/`:
-- `data/plugins/` - OpenCode plugins and extensions
-- `data/themes/` - Color schemes and visual themes
-- `data/agents/` - AI agents and subagents
-- `data/projects/` - Tools, GUIs, integrations, and utilities
-- `data/resources/` - Guides, templates, and configurations
+## Code Style
 
-**Filename:** kebab-case (e.g., `my-plugin.yaml`)
+- Use TypeScript
+- Follow existing patterns
+- Write tests for new features
+- JSDoc on all exported functions
 
-### Step 3: Add YAML Content
+## License
 
-```yaml
-name: Your Plugin Name
-repo: https://github.com/owner/repo-name
-tagline: Short punchy summary (max 120 chars, shown in collapsed view)
-description: Longer description explaining what it does and why it's useful.
-```
-
-### Step 4: Submit PR
-
-```bash
-git checkout -b add-my-plugin
-git add data/plugins/my-plugin.yaml
-git commit -m "docs: add my-plugin to plugins"
-git push origin add-my-plugin
-```
-
-Open a Pull Request on GitHub.
-
-## Entry Requirements
-
-- [ ] **Relevant** - Directly related to OpenCode
-- [ ] **Public** - Repository is publicly accessible
-- [ ] **Maintained** - Active commits within the last 6 months
-- [ ] **Unique** - Not a duplicate of existing entry
-- [ ] **Complete** - All required fields included
-
-## What Happens After PR?
-
-1. **Validation runs** - Automated checks verify YAML format
-2. **Maintainer review** - Content and relevance verified
-3. **Merge** - Once approved
-4. **README auto-generates** - List updates automatically
-
-No need to edit README.md—it regenerates from YAML files.
+By contributing, you agree that your contributions will be licensed under the MIT License.
