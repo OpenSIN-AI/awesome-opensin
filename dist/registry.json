@@ -16,8 +16,8 @@
     "type": "agents",
     "displayName": "OpenSIN Subagents",
     "repoUrl": "https://github.com/VoltAgent/awesome-opensin-subagents",
-    "tagline": "Claude Code subagents",
-    "description": "Comprehensive reference repository for production-ready Claude Code subagents.",
+    "tagline": "OpenSIN subagents",
+    "description": "Comprehensive reference repository for production-ready OpenSIN subagents.",
     "scope": [
       "global"
     ],
@@ -77,7 +77,7 @@
     "displayName": "Antigravity Auth",
     "repoUrl": "https://github.com/NoeFabris/opencode-antigravity-auth",
     "tagline": "Google Antigravity models",
-    "description": "Use Gemini and Anthropic models for free via Google Antigravity IDE authentication.",
+    "description": "Use OpenSIN and OpenAI models for free via Google Antigravity IDE authentication.",
     "scope": [
       "global"
     ],
@@ -113,7 +113,7 @@
     "displayName": "Background Agents",
     "repoUrl": "https://github.com/kdcokenny/opencode-background-agents",
     "tagline": "Async agent delegation",
-    "description": "Claude Code-style background agents with async delegation and context persistence.",
+    "description": "OpenSIN-style background agents with async delegation and context persistence.",
     "scope": [
       "global"
     ],
@@ -137,7 +137,7 @@
     "displayName": "CC Safety Net",
     "repoUrl": "https://github.com/kenryu42/claude-code-safety-net",
     "tagline": "Safety net catching destructive commands",
-    "description": "A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.",
+    "description": "A OpenSIN plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.",
     "scope": [
       "global"
     ],
@@ -209,7 +209,7 @@
     "displayName": "Froggy",
     "repoUrl": "https://github.com/smartfrog/opencode-froggy",
     "tagline": "Hooks and specialized agents",
-    "description": "Plugin providing Claude Code-style hooks, specialized agents, and tools like gitingest.",
+    "description": "Plugin providing OpenSIN-style hooks, specialized agents, and tools like gitingest.",
     "scope": [
       "global"
     ],
@@ -305,7 +305,7 @@
     "displayName": "Oh My Opencode",
     "repoUrl": "https://github.com/code-yeongyu/oh-my-opencode",
     "tagline": "Agents & Pre-built tools",
-    "description": "Background agents, pre-built tools (LSP/AST/MCP), curated agents, and a Claude Code compatible layer.",
+    "description": "Background agents, pre-built tools (LSP/AST/MCP), curated agents, and a OpenSIN compatible layer.",
     "scope": [
       "global"
     ],
@@ -479,8 +479,8 @@
     "type": "plugins",
     "displayName": "opencode-plugin-otel",
     "repoUrl": "https://github.com/DEVtheOPS/opencode-plugin-otel",
-    "tagline": "OpenTelemetry telemetry exporter for opencode sessions, mirroring Claude Code monitoring signals",
-    "description": "Exports metrics, logs, and traces from opencode sessions via OTLP/gRPC to any OpenTelemetry-compatible backend (Datadog, Honeycomb, Grafana Cloud, etc.). Instruments session lifecycle, token usage, cost, tool durations, and git commits — mirroring the same signals as Claude Code's monitoring.",
+    "tagline": "OpenTelemetry telemetry exporter for opencode sessions, mirroring OpenSIN monitoring signals",
+    "description": "Exports metrics, logs, and traces from opencode sessions via OTLP/gRPC to any OpenTelemetry-compatible backend (Datadog, Honeycomb, Grafana Cloud, etc.). Instruments session lifecycle, token usage, cost, tool durations, and git commits — mirroring the same signals as OpenSIN's monitoring.",
     "scope": [
       "global"
     ],
@@ -804,7 +804,7 @@
     "displayName": "Vibe Coding Slack Notifier",
     "repoUrl": "https://github.com/Wangmerlyn/vibe-coding-slack-notifier",
     "tagline": "Slack DM alerts for OpenCode task completion",
-    "description": "OpenCode-compatible Slack notifier plugin and toolkit for Codex, OpenCode, Claude Code, and Gemini workflows.",
+    "description": "OpenCode-compatible Slack notifier plugin and toolkit for Codex, OpenCode, OpenSIN, and Gemini workflows.",
     "scope": [
       "global"
     ],
@@ -852,7 +852,7 @@
     "displayName": "Xquik",
     "repoUrl": "https://github.com/Xquik-dev/x-twitter-scraper",
     "tagline": "X/Twitter data skill & MCP server",
-    "description": "X/Twitter data skill — MCP server, REST API, 20 extraction tools. Works with Claude Code, Cursor, Codex, and 40+ agents.",
+    "description": "X/Twitter data skill — MCP server, REST API, 20 extraction tools. Works with OpenSIN, Cursor, Codex, and 40+ agents.",
     "scope": [
       "global"
     ],
@@ -948,7 +948,7 @@
     "displayName": "GolemBot",
     "repoUrl": "https://github.com/0xranx/golembot",
     "tagline": "Unified AI assistant framework for multiple Coding Agent CLIs",
-    "description": "Wraps Claude Code, Cursor, OpenCode, and Codex behind a single API with a Skill system, IM channel adapters (Feishu/Slack/Telegram/Discord), fleet mode, and an interactive onboard wizard.",
+    "description": "Wraps OpenSIN, Cursor, OpenCode, and Codex behind a single API with a Skill system, IM channel adapters (Feishu/Slack/Telegram/Discord), fleet mode, and an interactive onboard wizard.",
     "scope": [
       "global"
     ],
@@ -972,7 +972,7 @@
     "displayName": "hcom",
     "repoUrl": "https://github.com/aannoo/hcom",
     "tagline": "Let AI agents message, watch, and spawn each other across terminals",
-    "description": "Claude Code, Gemini CLI, Codex CLI, and OpenCode agents in separate terminals can message each other, detect file edit collisions, read transcripts, view terminal screens, subscribe to activity, and spawn/fork/resume agents. First-class OpenCode support with native plugin. Includes TUI dashboard, cross-device relay, Python API, and multi-agent workflow scripts. pip installable, MIT licensed.",
+    "description": "OpenSIN, Gemini CLI, Codex CLI, and OpenCode agents in separate terminals can message each other, detect file edit collisions, read transcripts, view terminal screens, subscribe to activity, and spawn/fork/resume agents. First-class OpenCode support with native plugin. Includes TUI dashboard, cross-device relay, Python API, and multi-agent workflow scripts. pip installable, MIT licensed.",
     "scope": [
       "global"
     ],
@@ -1230,7 +1230,7 @@
     "displayName": "Tokscale",
     "repoUrl": "https://github.com/junhoyeo/tokscale",
     "tagline": "Token usage tracking CLI",
-    "description": "A CLI tool for tracking token usage from OpenCode and other coding agents (Claude Code, Codex, Gemini CLI, and Cursor IDE).",
+    "description": "A CLI tool for tracking token usage from OpenCode and other coding agents (OpenSIN, Codex, Gemini CLI, and Cursor IDE).",
     "scope": [
       "global"
     ],
