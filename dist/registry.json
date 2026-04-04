@@ -135,7 +135,7 @@
     "productId": "cc-safety-net",
     "type": "plugins",
     "displayName": "CC Safety Net",
-    "repoUrl": "https://github.com/kenryu42/claude-code-safety-net",
+    "repoUrl": "https://github.com/OpenSIN-AI/opensin-safety-net",
     "tagline": "Safety net catching destructive commands",
     "description": "A OpenSIN plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.",
     "scope": [
@@ -396,7 +396,7 @@
     "displayName": "Opencode Canvas",
     "repoUrl": "https://github.com/mailshieldai/opencode-canvas",
     "tagline": "Interactive terminal canvases in tmux splits",
-    "description": "Interactive terminal canvases (calendars, documents, flight booking) in tmux splits. Port of claude-canvas for OpenCode.",
+    "description": "Interactive terminal canvases (calendars, documents, flight booking) in tmux splits. Port of opensin-canvas for OpenSIN.",
     "scope": [
       "global"
     ],
