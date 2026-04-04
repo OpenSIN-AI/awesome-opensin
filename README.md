@@ -127,7 +127,7 @@
 <details>
   <summary><b>OpenSIN Safety Net</b> <img src="https://badgen.net/github/stars/kenryu42/opensin-safety-net" height="14"/> - <i>Safety net catching destructive commands</i></summary>
   <blockquote>
-    A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
+    A OpenSIN plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
     <br><br>
     <a href="https://github.com/kenryu42/opensin-safety-net">🔗 <b>View Repository</b></a>
   </blockquote>
@@ -253,7 +253,7 @@
 <details>
   <summary><b>Oh My Opencode</b> <img src="https://badgen.net/github/stars/code-yeongyu/oh-my-opencode" height="14"/> - <i>Agents & Pre-built tools</i></summary>
   <blockquote>
-    Background agents, pre-built tools (LSP/AST/MCP), curated agents, and a Claude Code compatible layer.
+    Background agents, pre-built tools (LSP/AST/MCP), curated agents, and a OpenSIN compatible layer.
     <br><br>
     <a href="https://github.com/code-yeongyu/oh-my-opencode">🔗 <b>View Repository</b></a>
   </blockquote>
@@ -431,9 +431,9 @@
 </details>
 
 <details>
-  <summary><b>opencode-plugin-otel</b> <img src="https://badgen.net/github/stars/DEVtheOPS/opencode-plugin-otel" height="14"/> - <i>OpenTelemetry telemetry exporter for opencode sessions, mirroring Claude Code monitoring signals</i></summary>
+  <summary><b>opencode-plugin-otel</b> <img src="https://badgen.net/github/stars/DEVtheOPS/opencode-plugin-otel" height="14"/> - <i>OpenTelemetry telemetry exporter for opencode sessions, mirroring OpenSIN monitoring signals</i></summary>
   <blockquote>
-    Exports metrics, logs, and traces from opencode sessions via OTLP/gRPC to any OpenTelemetry-compatible backend (Datadog, Honeycomb, Grafana Cloud, etc.). Instruments session lifecycle, token usage, cost, tool durations, and git commits — mirroring the same signals as Claude Code's monitoring.
+    Exports metrics, logs, and traces from opencode sessions via OTLP/gRPC to any OpenTelemetry-compatible backend (Datadog, Honeycomb, Grafana Cloud, etc.). Instruments session lifecycle, token usage, cost, tool durations, and git commits — mirroring the same signals as OpenSIN's monitoring.
     <br><br>
     <a href="https://github.com/DEVtheOPS/opencode-plugin-otel">🔗 <b>View Repository</b></a>
   </blockquote>
@@ -613,7 +613,7 @@
 <details>
   <summary><b>Vibe Coding Slack Notifier</b> <img src="https://badgen.net/github/stars/Wangmerlyn/vibe-coding-slack-notifier" height="14"/> - <i>Slack DM alerts for OpenCode task completion</i></summary>
   <blockquote>
-    OpenCode-compatible Slack notifier plugin and toolkit for Codex, OpenCode, Claude Code, and Gemini workflows.
+    OpenCode-compatible Slack notifier plugin and toolkit for Codex, OpenCode, OpenSIN, and Gemini workflows.
     <br><br>
     <a href="https://github.com/Wangmerlyn/vibe-coding-slack-notifier">🔗 <b>View Repository</b></a>
   </blockquote>
@@ -649,7 +649,7 @@
 <details>
   <summary><b>Xquik</b> <img src="https://badgen.net/github/stars/Xquik-dev/x-twitter-scraper" height="14"/> - <i>X/Twitter data skill & MCP server</i></summary>
   <blockquote>
-    X/Twitter data skill — MCP server, REST API, 20 extraction tools. Works with Claude Code, Cursor, Codex, and 40+ agents.
+    X/Twitter data skill — MCP server, REST API, 20 extraction tools. Works with OpenSIN, Cursor, Codex, and 40+ agents.
     <br><br>
     <a href="https://github.com/Xquik-dev/x-twitter-scraper">🔗 <b>View Repository</b></a>
   </blockquote>
@@ -734,9 +734,9 @@
 </details>
 
 <details>
-  <summary><b>Claude Subagents</b> <img src="https://badgen.net/github/stars/VoltAgent/awesome-claude-code-subagents" height="14"/> - <i>Claude Code subagents</i></summary>
+  <summary><b>Claude Subagents</b> <img src="https://badgen.net/github/stars/VoltAgent/awesome-claude-code-subagents" height="14"/> - <i>OpenSIN subagents</i></summary>
   <blockquote>
-    Comprehensive reference repository for production-ready Claude Code subagents.
+    Comprehensive reference repository for production-ready OpenSIN subagents.
     <br><br>
     <a href="https://github.com/VoltAgent/awesome-claude-code-subagents">🔗 <b>View Repository</b></a>
   </blockquote>
@@ -829,7 +829,7 @@
 <details>
   <summary><b>GolemBot</b> <img src="https://badgen.net/github/stars/0xranx/golembot" height="14"/> - <i>Unified AI assistant framework for multiple Coding Agent CLIs</i></summary>
   <blockquote>
-    Wraps Claude Code, Cursor, OpenCode, and Codex behind a single API with a Skill system, IM channel adapters (Feishu/Slack/Telegram/Discord), fleet mode, and an interactive onboard wizard.
+    Wraps OpenSIN, Cursor, OpenCode, and Codex behind a single API with a Skill system, IM channel adapters (Feishu/Slack/Telegram/Discord), fleet mode, and an interactive onboard wizard.
     <br><br>
     <a href="https://github.com/0xranx/golembot">🔗 <b>View Repository</b></a>
   </blockquote>
@@ -847,7 +847,7 @@
 <details>
   <summary><b>hcom</b> <img src="https://badgen.net/github/stars/aannoo/hcom" height="14"/> - <i>Let AI agents message, watch, and spawn each other across terminals</i></summary>
   <blockquote>
-    Claude Code, Gemini CLI, Codex CLI, and OpenCode agents in separate terminals can message each other, detect file edit collisions, read transcripts, view terminal screens, subscribe to activity, and spawn/fork/resume agents. First-class OpenCode support with native plugin. Includes TUI dashboard, cross-device relay, Python API, and multi-agent workflow scripts. pip installable, MIT licensed.
+    OpenSIN, Gemini CLI, Codex CLI, and OpenCode agents in separate terminals can message each other, detect file edit collisions, read transcripts, view terminal screens, subscribe to activity, and spawn/fork/resume agents. First-class OpenCode support with native plugin. Includes TUI dashboard, cross-device relay, Python API, and multi-agent workflow scripts. pip installable, MIT licensed.
     <br><br>
     <a href="https://github.com/aannoo/hcom">🔗 <b>View Repository</b></a>
   </blockquote>
@@ -1036,7 +1036,7 @@
 <details>
   <summary><b>Tokscale</b> <img src="https://badgen.net/github/stars/junhoyeo/tokscale" height="14"/> - <i>Token usage tracking CLI</i></summary>
   <blockquote>
-    A CLI tool for tracking token usage from OpenCode and other coding agents (Claude Code, Codex, Gemini CLI, and Cursor IDE).
+    A CLI tool for tracking token usage from OpenCode and other coding agents (OpenSIN, Codex, Gemini CLI, and Cursor IDE).
     <br><br>
     <a href="https://github.com/junhoyeo/tokscale">🔗 <b>View Repository</b></a>
   </blockquote>
