@@ -33,3 +33,19 @@ npm start
 ## License
 
 MIT
+
+---
+
+## 📚 Documentation
+
+Full documentation: **[docs.opensin.ai](https://docs.opensin.ai)**
+
+| Section | Link |
+|---------|------|
+| Getting Started | [Guide](https://docs.opensin.ai/guide/getting-started) |
+| API Reference | [API](https://docs.opensin.ai/api/overview) |
+| Tutorials | [Tutorials](https://docs.opensin.ai/tutorials/agent-basics) |
+| Integrations | [Integrations](https://docs.opensin.ai/integrations/telegram) |
+| Architecture | [Architecture](https://docs.opensin.ai/architecture/overview) |
+| Community | [Discord](https://discord.gg/opensin) |
+

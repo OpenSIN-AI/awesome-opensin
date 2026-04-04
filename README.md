@@ -1114,3 +1114,19 @@ Found an Awesome Opencode project? <br>
 </div>
 
 > OpenSIN connects to **100+ LLM providers** and **1000+ models** — including OpenAI, Anthropic, Google, Mistral, Groq, Cerebras, TogetherAI, Ollama, local models, and 90+ more. Bring your own API key or use our free tier.
+
+---
+
+## 📚 Documentation
+
+Full documentation: **[docs.opensin.ai](https://docs.opensin.ai)**
+
+| Section | Link |
+|---------|------|
+| Getting Started | [Guide](https://docs.opensin.ai/guide/getting-started) |
+| API Reference | [API](https://docs.opensin.ai/api/overview) |
+| Tutorials | [Tutorials](https://docs.opensin.ai/tutorials/agent-basics) |
+| Integrations | [Integrations](https://docs.opensin.ai/integrations/telegram) |
+| Architecture | [Architecture](https://docs.opensin.ai/architecture/overview) |
+| Community | [Discord](https://discord.gg/opensin) |
+
