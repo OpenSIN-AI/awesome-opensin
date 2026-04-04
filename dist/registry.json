@@ -12,10 +12,10 @@
     "tags": []
   },
   {
-    "productId": "claude-subagents",
+    "productId": "opensin-subagents",
     "type": "agents",
-    "displayName": "Claude Subagents",
-    "repoUrl": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+    "displayName": "OpenSIN Subagents",
+    "repoUrl": "https://github.com/VoltAgent/awesome-opensin-subagents",
     "tagline": "Claude Code subagents",
     "description": "Comprehensive reference repository for production-ready Claude Code subagents.",
     "scope": [
