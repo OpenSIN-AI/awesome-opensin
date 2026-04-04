@@ -1,4 +1,4 @@
 name: opencode-plugin-otel
 repo: https://github.com/DEVtheOPS/opencode-plugin-otel
 tagline: OpenTelemetry telemetry exporter for opencode sessions, mirroring OpenSIN monitoring signals
-description: Exports metrics, logs, and traces from opencode sessions via OTLP/gRPC to any OpenTelemetry-compatible backend (Datadog, Honeycomb, Grafana Cloud, etc.). Instruments session lifecycle, token usage, cost, tool durations, and git commits — mirroring the same signals as Claude Code's monitoring.
+description: Exports metrics, logs, and traces from opencode sessions via OTLP/gRPC to any OpenTelemetry-compatible backend (Datadog, Honeycomb, Grafana Cloud, etc.). Instruments session lifecycle, token usage, cost, tool durations, and git commits — mirroring the same signals as OpenSIN's monitoring.
