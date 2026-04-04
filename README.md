@@ -734,11 +734,11 @@
 </details>
 
 <details>
-  <summary><b>Claude Subagents</b> <img src="https://badgen.net/github/stars/VoltAgent/awesome-claude-code-subagents" height="14"/> - <i>OpenSIN subagents</i></summary>
+  <summary><b>OpenSIN Subagents</b> <img src="https://badgen.net/github/stars/VoltAgent/awesome-opensin-subagents" height="14"/> - <i>OpenSIN subagents</i></summary>
   <blockquote>
     Comprehensive reference repository for production-ready OpenSIN subagents.
     <br><br>
-    <a href="https://github.com/VoltAgent/awesome-claude-code-subagents">🔗 <b>View Repository</b></a>
+    <a href="https://github.com/VoltAgent/awesome-opensin-subagents">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
