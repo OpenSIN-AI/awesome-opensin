@@ -109,7 +109,7 @@
 <details>
   <summary><b>Background Agents</b> <img src="https://badgen.net/github/stars/kdcokenny/opencode-background-agents" height="14"/> - <i>Async agent delegation</i></summary>
   <blockquote>
-    Claude Code-style background agents with async delegation and context persistence.
+    OpenSIN-style background agents with async delegation and context persistence.
     <br><br>
     <a href="https://github.com/kdcokenny/opencode-background-agents">🔗 <b>View Repository</b></a>
   </blockquote>
@@ -125,11 +125,11 @@
 </details>
 
 <details>
-  <summary><b>CC Safety Net</b> <img src="https://badgen.net/github/stars/kenryu42/claude-code-safety-net" height="14"/> - <i>Safety net catching destructive commands</i></summary>
+  <summary><b>OpenSIN Safety Net</b> <img src="https://badgen.net/github/stars/kenryu42/opensin-safety-net" height="14"/> - <i>Safety net catching destructive commands</i></summary>
   <blockquote>
     A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
     <br><br>
-    <a href="https://github.com/kenryu42/claude-code-safety-net">🔗 <b>View Repository</b></a>
+    <a href="https://github.com/kenryu42/opensin-safety-net">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
@@ -181,7 +181,7 @@
 <details>
   <summary><b>Froggy</b> <img src="https://badgen.net/github/stars/smartfrog/opencode-froggy" height="14"/> - <i>Hooks and specialized agents</i></summary>
   <blockquote>
-    Plugin providing Claude Code-style hooks, specialized agents, and tools like gitingest.
+    Plugin providing OpenSIN-style hooks, specialized agents, and tools like gitingest.
     <br><br>
     <a href="https://github.com/smartfrog/opencode-froggy">🔗 <b>View Repository</b></a>
   </blockquote>
