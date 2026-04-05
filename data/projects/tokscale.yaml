@@ -1,4 +1,4 @@
 name: Tokscale
 repo: https://github.com/junhoyeo/tokscale
 tagline: Token usage tracking CLI
-description: A CLI tool for tracking token usage from OpenCode and other coding agents (Claude Code, Codex, Gemini CLI, and Cursor IDE).
+description: A CLI tool for tracking token usage from OpenCode and other coding agents (OpenCode, Codex, Gemini CLI, and Cursor IDE).

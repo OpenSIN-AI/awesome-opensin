@@ -1,4 +1,4 @@
 name: GolemBot
 repo: https://github.com/0xranx/golembot
 tagline: Unified AI assistant framework for multiple Coding Agent CLIs
-description: Wraps Claude Code, Cursor, OpenCode, and Codex behind a single API with a Skill system, IM channel adapters (Feishu/Slack/Telegram/Discord), fleet mode, and an interactive onboard wizard.
+description: Wraps OpenCode, Cursor, OpenCode, and Codex behind a single API with a Skill system, IM channel adapters (Feishu/Slack/Telegram/Discord), fleet mode, and an interactive onboard wizard.
