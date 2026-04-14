@@ -3,8 +3,8 @@
 # Loads active context from the persistent brain and injects it
 # into the current OpenCode session as a system-level preamble.
 
-BRAIN_CLI="/Users/jeremy/dev/awesome-opencode-pr/src/cli.js"
-BRAIN_ROOT="/Users/jeremy/dev/awesome-opencode-pr"
+BRAIN_CLI="/Users/jeremy/dev/global-brain/src/cli.js"
+BRAIN_ROOT="/Users/jeremy/dev/global-brain"
 PROJECT_ID="awesome-opencode-pr"
 GOAL_ID="default-goal"
 GOAL_DESC="Continue development"

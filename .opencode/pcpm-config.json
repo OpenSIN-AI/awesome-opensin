@@ -5,7 +5,7 @@
     "onFailure": "/Users/jeremy/dev/awesome-opencode-pr/.opencode/hooks/pcpm-after-run.sh"
   },
   "pcpm": {
-    "brainRepoPath": "/Users/jeremy/dev/awesome-opencode-pr",
+    "brainRepoPath": "/Users/jeremy/dev/global-brain",
     "projectId": "awesome-opencode-pr",
     "goalId": "default-goal",
     "goalDescription": "Continue development",
